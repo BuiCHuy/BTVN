@@ -1,0 +1,63 @@
+#main {
+    background-color: #ccccef;
+
+}
+#header{
+    text-align: center;
+    font-family: "Arial Black";
+    color: darkviolet;
+    font-size: 30px;
+}
+.logo img {
+    witdh:150px;
+    height: 150px;
+    margin-bottom: 50px;
+}
+#body {
+    font-family: Arial;
+
+    margin-left: 270px;
+    margin-right: 270px;
+
+    border-radius: 10px;
+    padding-left: 50px;
+
+    padding-bottom: 40px;
+    padding-top: 40px;
+    color: white;
+    background-color: #8b27e8;
+
+}
+#body button{
+    border-radius: 5px;
+    background-color: bisque;
+}
+
+p3,p5,p6,p12,p14{
+    color: khaki;
+
+}
+p4,p7,p10,p11,p13{
+    margin-left: 10px;
+}
+#btn {
+    text-align: center;
+}
+#btn button{
+    border-radius: 5px;
+    background-color: gold;
+    color:black;
+    margin-top: 20px;
+    font-family: Arial;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right:5px;
+    border-color: gold;
+}
+#footer {
+    text-align: center;
+    font-family: "Arial";
+
+}
+
